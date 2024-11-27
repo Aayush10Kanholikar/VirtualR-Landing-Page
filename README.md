@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Kanholikar</h1>
 # 💫 About Me:
 This project is a sleek, modern, and responsive landing page built using React.js, Vite, and Tailwind CSS. It's designed to be a lightweight and fast-loading template that can be easily customized for various projects.
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kanholikar-628325207/)
